@@ -1,0 +1,118 @@
+Albany NY
+1770
+Detroit, MI
+1317
+Norfolk VA
+1384
+Albuquerque NM
+890
+EL Paso TX
+723
+Oklahoma City OK
+455
+Atlanta, GA
+797
+Fargo ND
+1334
+Omaha NE
+911
+Baltimore MD
+1454
+Grand Junction CO
+1187
+Orlando FL
+969
+Billings, MT
+1676
+Hartford CT
+1756
+Philadelphia PA
+1572
+Birmingham AL
+671
+Indianapolis, IN
+1025
+Phoenix AZ
+1189
+Boise, ID
+1951
+Jackson MS
+442
+Pittsburgh PA
+1347
+Boston, MA
+1856
+Jacksonville FL
+875
+Portland ME
+1985
+Buffalo NY
+1495
+Kanas City, MO
+732
+Portland OR
+2371
+Charleston SC
+1113
+Las Vegas NV
+1468
+Rapid City SD
+1316
+Charleston WV
+1170
+Little Rock AR
+434
+Reno NV
+1913
+Charlotte NC
+1040
+Los Angeles CA
+1560
+St. Louis MO
+837
+Cheyenne WY
+1221
+Louisville KY
+954
+Salt Lake City UT
+1650
+Chicago, IL
+1089
+Memphis TN
+573
+San Antonio TX
+199
+Cleveland OH
+1309
+Miami FL
+1190
+San Diego CA
+1481
+Columbia SC
+1005
+Milwaukee WI
+1179
+SanFrancisco CA
+1941
+Columbus OH
+1168
+Minneapolis MN
+1171
+Seattle WA
+2442
+Dallas, TX
+247
+Nashville TN
+782
+Washington DC
+1414
+Denver, CO
+1129
+New Orleans LA
+351
+Wichita KS
+612
+Des Moines IA
+926
+New York NY
+1652
